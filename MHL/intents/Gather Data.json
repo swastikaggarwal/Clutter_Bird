@@ -1,0 +1,79 @@
+{
+  "id": "5a0fee91-ce12-4b33-bc89-781a758f2691",
+  "parentId": "36adf666-93e8-4d4e-acc1-9b73122f6f24",
+  "rootParentId": "36adf666-93e8-4d4e-acc1-9b73122f6f24",
+  "name": "Gather Data",
+  "auto": true,
+  "contexts": [
+    "DefaultWelcomeIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "40348cbc-3c81-4f0b-a795-d9d71207973f",
+          "name": "Advance",
+          "required": true,
+          "dataType": "@sys.url",
+          "value": "https://www.youtube.com/watch?v\u003dNqCmzk4Z9LA",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Tell me do you need Basic or Advance video of the Particular topic ?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "ac865092-7ba5-4dc9-a857-98cbde5f1db0",
+          "name": "Basic",
+          "required": true,
+          "dataType": "@sys.url",
+          "value": "https://www.youtube.com/watch?v\u003dxEF8shaU_34\u0026t\u003d11s",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "This is a Basic Video"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "For Basis Video here is the results $Basic , For Advance Version  here are the results $Advance"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

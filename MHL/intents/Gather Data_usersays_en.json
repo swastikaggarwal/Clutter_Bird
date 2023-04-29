@@ -1,0 +1,28 @@
+[
+  {
+    "id": "d3dac5ca-9398-42de-9626-2c4c70658507",
+    "data": [
+      {
+        "text": "How Plant absorbs Sunlight",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9ead383b-6257-45fe-a71a-b3f76ffef06c",
+    "data": [
+      {
+        "text": "Photosynthesis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
