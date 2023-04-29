@@ -23,7 +23,6 @@ For the future of Clutter Bird,  we hope to expand this chatbot's database with 
 
  Built with  
  Google cloud , Dialogflow 
- 
 
 
 
