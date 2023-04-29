@@ -10,9 +10,10 @@ Amoeba Sisters](https://www.youtube.com/@AmoebaSisters) for Biology studies and 
 ## How we built it 🔨
 We build Clutter Bird with Dialogflow, a google cloud chatbot maker. this software allowed us to write potential responses to what users are learning about and options they can choose when they are stuck. It also helped with the input, and output commands as when the users submit their input to the bot, there are specific outputs that Dialogflow allows us to respond with. 
 ## Challenges we ran into ✅
+we are just beginners so for now coding Machine learning and AI is not easy for us within 2 days also we faced some issues with Google could trials as it keeps on asking for bank details even for free versions which we aren't comfortable with, but somehow we make it but the existing chatbot system of google cloud ( Dialogflow ) is not that advance to make our solutions
 
 ## Accomplishments that we're proud of 👍
-
+The idea is unique and great, the moment Machine learning comes into action it adds beauty to it also we are proud to say that we build an idea to reduce Rote learning by providing AI-Based Animation videos, which is still not exist in the market, that provides 13 hr of bookish studies into 13 minutes by proper visualization and imaginations
 ## What we learned 🧠
 From this project, we learned that every single person is different in the way they are educated. Some people learn a lot faster than others and this highly impacts their productivity. This helped truly shows why it is so important that there must be advancements in chatbot technology. Through chatbot technology, bots will be able to provide this personalized experience for everyone regardless of learning speed and capacity. Instead of getting a human that can only work with one person at a time,  one chatbot could work for practically everyone in the world at a time. The possibilities are endless. Chatbot technology will impact the future and we researched that with the addition of Artificial Intelligence (AI), this personalized experience will only continue to rise.  The future is looking bright for technology and personalized learning strategies.
 ## What's next for **Clutter Bird**
